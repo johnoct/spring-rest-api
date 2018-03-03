@@ -25,7 +25,7 @@ mvn spring-boot:run
 
 ## Running the tests
 
-Now you can go to your browser and visit the following:
+Now you can navigate to your browser and visit the following:
 ```
 http://localhost:8080/greeting
 ```
